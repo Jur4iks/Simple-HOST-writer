@@ -14,3 +14,7 @@ This small script allows me to add entry at the end of my HOST file to help me s
 3. Open with Run As Administrator...
 4. Type your HOST name
 5. And magic happens.
+
+
+# Use at own riks.
+Sorry for that, but you are warned.
